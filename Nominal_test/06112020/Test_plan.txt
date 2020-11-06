@@ -1,0 +1,12 @@
+Do 3 tests of 4 iterations.
+- The 4 iterations will consist of:
+        2 where the drone is in "hover-mode" (propellers are spinning but no additional throttle is given)
+        2 where additional throttle is given in on/off patterns
+- The 3 tests will consist of:
+        1 where the external IMU is located as close to the end of the arm of the drone as possible
+        1 where the external IMU is located half way along the arm
+        1 where the external IMU is located as close to the center of the drone as possible
+        
+Be advised!
+- All throttle values are essentially void, since the autopilot of the drone speeds up the motors to full thrust when the system doesn't actually
+take off when given the input to. Hence, all throttle values should essentially be viewed as maxiumum throttle.

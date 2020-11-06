@@ -1,0 +1,47 @@
+Baseline test to assess sensor performance, drift etc.
+
+Test 1:
+        Purpose:
+                Get a clear baseline of the undisturbed system.
+        Description:
+                 No actuation or user input for the entire duration of test.
+        Duration = 60 secs
+        
+        
+Test 2:
+        Purpose:
+                Test the system during disturbances and user input.
+        Description:
+                During the test the following disturbances and inputs will be introduced:
+                        User input through rc - induced at time 0-20secs
+                        Disturbances to drone as the table upon which it is situated is move back and forth - induced at time 30-50secs
+        Duration = 60 secs
+        
+Test 3:
+        Purpose:
+                Duplicate of Test 1
+        Description:
+                Duplicate of Test 1
+        Duration = 60 secs
+        
+Test 4:
+        Purpose:
+                Duplicate of Test 2
+        Description:
+                Duplicate of Test 2
+        Duration = 60 secs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

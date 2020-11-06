@@ -1,0 +1,3 @@
+External magnetometer has a few spikes that i cannot explain
+Low frequency (10Hz) but it seems to be ok. We will have to reassess when a
+test is done with an activated drone.
