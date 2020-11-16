@@ -1,0 +1,6 @@
+In test T001_2:
+For some reason data was not recorded for 1,5 seconds between second 30.6034 and second 32.1126.
+This must have been because Telemetry_Log.py stopped during this time.
+Possible causes:
+- Error on the NanoPi? It did overheat at one point during the day, maybe this is an early symptom of that.
+- 
